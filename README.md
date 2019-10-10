@@ -1,2 +1,1 @@
-# qmk-xd75re-keymap
-Meine Keymap für das xd75re
+Copy dende to qmk_firmware/keyboards/xd75/keymaps/dende
